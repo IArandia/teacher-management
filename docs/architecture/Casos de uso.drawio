@@ -1,0 +1,58 @@
+<mxfile host="127.0.0.1">
+  <diagram id="0" name="Page-1">
+    <mxGraphModel dx="1362" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-2" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="lmYKBuwfJCiSWR2SQ3IX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-3" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ekgM2EumvHVXyUipd9h_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-4" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ekgM2EumvHVXyUipd9h_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-5" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ekgM2EumvHVXyUipd9h_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-6" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ekgM2EumvHVXyUipd9h_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-7" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ekgM2EumvHVXyUipd9h_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDKoDIkaXWAX3PwGLGWB-8" edge="1" parent="1" source="lmYKBuwfJCiSWR2SQ3IX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ekgM2EumvHVXyUipd9h_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lmYKBuwfJCiSWR2SQ3IX-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="USER&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="40" x="30" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="lmYKBuwfJCiSWR2SQ3IX-8" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Teacher management system" vertex="1">
+          <mxGeometry height="820" width="380" x="210" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lmYKBuwfJCiSWR2SQ3IX-2" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Register teacher" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ekgM2EumvHVXyUipd9h_-2" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="View all&amp;nbsp; teachers&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ekgM2EumvHVXyUipd9h_-4" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Search Teachers by name" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ekgM2EumvHVXyUipd9h_-8" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Filter Teachers by school&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ekgM2EumvHVXyUipd9h_-10" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Update teacher information&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ekgM2EumvHVXyUipd9h_-12" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Delete teacher&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ekgM2EumvHVXyUipd9h_-14" parent="lmYKBuwfJCiSWR2SQ3IX-8" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Sort teachers by salary&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="130" y="710" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
